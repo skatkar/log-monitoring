@@ -1,0 +1,352 @@
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has successfully logged in into the banking application.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4 has successfully logged in into the banking application.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has filled the form to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to transfer money from one account to another account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open new FD.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested to close an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to open an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested to view FD summary.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4  has successfully did all his bill payments.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 4  has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 4 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has requested for account statement.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 2 has requested to issue loan.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3  has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 1 has requested to close an account.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 3  has requested for account statement.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has successfully did all his bill payments.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 3 has requested to view FD summary.
+2017-10-29 15:06:27 WARN  LoggingSample:34 - User 1 has requested to open an account.
+2017-10-29 15:06:27 INFO  LoggingSample:39 - User 2 has requested to issue loan.
