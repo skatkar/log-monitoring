@@ -30,10 +30,10 @@ exports.handler = function (event, context, callback) {
     getS3File(bucket, fileUploaded)
         .then(function (fileData) {
             var mailOptions = {
-                from: 'skatkar225@csu.fullerton.edu',
+                from: '<verified_email_address>',
                 subject: 'This is an email sent from a Lambda function!',
                 html: `<p>Please find the attached file for the generated report.</p>`,
-                to: 'skatkar225@csu.fullerton.edu',
+                to: '<verified_email_address>',
                 // bcc: Any BCC address you want here in an array,
                 attachments: [
                     {
