@@ -13,8 +13,7 @@ exports.handler = function (event, context, callback) {
 	var s3FileCommand = './execute-kinesis-hadoop.sh ' + key + ' ' + fileName;
 	console.log("The command is: " + s3FileCommand);
 	var ssh = new SSH({
-		host: '172.31.59.46',
-		//user: 'ec2-user',
+		host: '<Private IP address of EMR master node>',
 		user: 'hadoop',
 		key: fs.readFileSync("EC2Key.pem")
 	});

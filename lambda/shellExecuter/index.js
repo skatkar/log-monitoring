@@ -21,8 +21,7 @@ exports.handler = (event, context, callback) => {
 		Use this address below
 	*/
 	var ssh = new SSH({
-		host: '172.31.62.129',
-		//user: 'ec2-user(ubuntu/ec2-user)',
+		host: '<Private IP address of EMR master node>',
 		user: 'hadoop',
 		key: fs.readFileSync("EC2Key.pem")
 	});
