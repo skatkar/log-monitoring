@@ -11,4 +11,5 @@ This shell scripts generates the fake live streaming of the logs. The high level
 Parameters expected-
 
 i - number of iterations. By default, this is 10
+
 d - delay between each iteration. By default, this is 5 seconds
