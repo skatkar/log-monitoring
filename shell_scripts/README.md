@@ -9,5 +9,6 @@ The main functionality of these shell scripts is to execute Map-Reduce Java code
 This shell scripts generates the fake live streaming of the logs. The high level functionality is to read the inputSample.txt file and append its content to the log file which looks like continuous streaming of the log statements.
 
 Parameters expected-
+
 i - number of iterations. By default, this is 10
 d - delay between each iteration. By default, this is 5 seconds
