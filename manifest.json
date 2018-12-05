@@ -1,0 +1,20 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+			        "s3://hadoopsetup/output/out_201812041754.csv"                
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "s3://hadoopsetup/output/"
+                ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": "\t",
+        "textqualifier": "'",
+        "containsHeader": "false"
+    }
+}
