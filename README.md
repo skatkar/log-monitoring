@@ -13,10 +13,10 @@ Java, Node js, shell scripts
 3. The statitsics can be visualized in quicksight using manifest.json
 
 ### High level architecture
-![High level overview](https://drive.google.com/file/d/1x8Jh0s6fpmPdXXGil4ioZO1whvnvM78Q/view)
+![High level overview](high_level_architecture.JPG)
 
 ### Phase 1 architecture
-![Phase 1 overview](https://tinyurl.com/y8bv7ut7)
+![Phase 1 overview](phase1_architecture.JPG)
 
 ### Phase 2 architecture
-![Phase 2 overview](https://tinyurl.com/y6weeqn8)
+![Phase 2 overview](phase2_architecture.jpg)
