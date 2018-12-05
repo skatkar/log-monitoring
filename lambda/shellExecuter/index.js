@@ -9,10 +9,6 @@ exports.handler = (event, context, callback) => {
 	const fileName = key.split("/")[1];
 	
 	var lastCreatedFile = event.Records[0].s3.object.key;
-	//console.log(lastCreatedFile);
-	//console.log(bucket);
-	//console.log(key);
-	//console.log(region);
 	console.log("File to analyse: " + fileName);
 	//var s3FileCommand = 'aws s3 cp s3://' + bucket + '/' + key + ' ./' + key + ' --region ' + region;
 	var s3FileCommand = './execute-hadoop.sh ' + fileName;
@@ -21,11 +17,11 @@ exports.handler = (event, context, callback) => {
 	//If the server is of EMR cluster, provide the private IP address of master node
 	/* How to get the private IP--
 		Connect to the master node using the public IPv4 address
-		On the terminal use the command hostanem -I
+		On the terminal use the command hostname -I
 		Use this address below
 	*/
 	var ssh = new SSH({
-		host: '172.31.55.13',
+		host: '172.31.62.129',
 		//user: 'ec2-user(ubuntu/ec2-user)',
 		user: 'hadoop',
 		key: fs.readFileSync("EC2Key.pem")

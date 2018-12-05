@@ -1,0 +1,15 @@
+{
+  "name": "sendemailwithattachment",
+  "version": "1.0.0",
+  "description": "Lambda function which gets triggered as soon as the file uploaded to the specified S3 bucket. Upon execution, it sends out an email to the verified email address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.370.0",
+    "nodemailer": "^4.7.0"
+  }
+}

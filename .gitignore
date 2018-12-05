@@ -1,0 +1,3 @@
+lambda/kinesisReader/node_modules
+lambda/shellExecuter/node_modules
+lambda/sendEmailWithAttachment/node_modules
