@@ -19,4 +19,4 @@ Java, Node js, shell scripts
 ![Phase 1 overview](phase1_architecture.JPG)
 
 ### Phase 2 architecture
-![Phase 2 overview](phase2_architecture.JPG)
+![Phase 2 overview](phase2_architecture.jpg)
